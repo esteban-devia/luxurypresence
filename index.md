@@ -189,5 +189,6 @@
         </div>
     </footer>
     <script type="text/javascript" data-mutate-approach="sync" src="https://kit.fontawesome.com/6219da6e02.js"></script>
+    <script src="index.js"></script>
 </body>
 </html>

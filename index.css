@@ -53,11 +53,13 @@ header {
     width: -webkit-fill-available;
     width: -moz-available;
     height: 100px;
-    margin: 0 25%;
-    position: absolute;
+    padding: 0 25%;
+    position: fixed;
     top: 0;
     left: 0;
+    margin-bottom: -100px;
     z-index: 1;
+    transition: top 0.25s ease-in;
 }
 header > a img {
     max-width: 290px;
